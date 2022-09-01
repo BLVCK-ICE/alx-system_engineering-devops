@@ -1,1 +1,2 @@
-blue
+#!/bin/bash
+ls
