@@ -1,0 +1,2 @@
+#!/bin/bash
+echo -e "$(($(TRUEKNOWLEDE)+128))\n"
